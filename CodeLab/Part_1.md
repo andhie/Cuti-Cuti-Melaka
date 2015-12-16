@@ -33,7 +33,7 @@ public class Tempat {
 
 1. Create a new Java file named `TempatAdapter.java`
 2. Let TempatAdapter `extends ArrayAdapter<Tempat>`
-3. Create an XML layout named `list_item_Tempat.xml` that contains 2 TextView (placed top and bottom). The first TextView will be our Tempat name. The 2nd TextView will be the address.
+3. Create an XML layout named `list_item_tempat.xml` that contains 2 TextView (placed top and bottom). The first TextView will be our Tempat name. The 2nd TextView will be the address.
 4. Override `getView` method in CustomAdapter
   - TODO 1: inflate a list item view, display Tempat's data in the View
   - TODO 2: Improvements: use the "convertView" instead of always inflating a new list item
