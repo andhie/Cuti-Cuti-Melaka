@@ -1,5 +1,9 @@
 # Cuti-Cuti Melaka - Part 5
 
+Start Part 5 by download resources required for this section
+
+  - Download [Part 5 of CodeLab Resource](https://github.com/andhie/Cuti-Cuti-Melaka/raw/master/CodeLab%20Resources/CodeLab%20-%20Part%205.zip)
+
 ## Background
 
 We will be using Google Play Services API such as Google Maps and Fused Location.
